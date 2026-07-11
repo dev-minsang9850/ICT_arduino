@@ -1,4 +1,4 @@
-# 덕영고등학교 & 차세대융합기술원 차세대융합기술 ICT융합기술 메이커 제작 교육
+# 덕영고등학교 - 차세대융합기술ICT융합기술 메이커 제작 교육
 
 ### 자세한 사항은 [Github Link](https://github.com/dev-minsang9850/ICT_arduino) 에 PDF 파일을 참고하세요
 ## 기본 준비물
